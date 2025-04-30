@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HelpHub - Home</title>
+</head>
+<body>
+  <header>
+    <h1>HelpHub</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="charities.html">Charities</a>
+      <a href="#">About</a>
+      <a href="#">Sign In</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Find Local Charities. Make a Difference.</h2>
+      <p>HelpHub connects volunteers with charities in their community. Get involved and give back.</p>
+      <a href="charities.html">Browse Charities</a>
+    </section>
+
+    <section>
+      <h3>How It Works</h3>
+      <ul>
+        <li>Find Local Charities</li>
+        <li>Volunteer Opportunities</li>
+        <li>Make an Impact</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <a href="#">Contact</a>
+    <a href="#">Terms</a>
+    <a href="#">Privacy</a>
+  </footer>
+</body>
+</html>
