@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HelpHub - Charity Profile</title>
+</head>
+<body>
+  <header>
+    <h1>HelpHub</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="charities.html">Charities</a>
+      <a href="#">About</a>
+      <a href="#">Sign In</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Charity One</h2>
+    <p><strong>Location:</strong> City, State</p>
+    <p><strong>Contact:</strong> info@charityone.org</p>
+    <p>Description of the charity, its mission, and the work it does in the community.</p>
+
+    <section>
+      <h3>Volunteer with Us</h3>
+      <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" required>
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+        
+        <label for="availability">Availability:</label>
+        <input type="text" id="availability">
+        
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <a href="#">Contact</a>
+    <a href="#">Terms</a>
+    <a href="#">Privacy</a>
+  </footer>
+</body>
+</html>
